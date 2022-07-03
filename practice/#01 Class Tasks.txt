@@ -1,0 +1,177 @@
+Part 1
+A. There are some Tags and Attribute in HTML
+B, Basic HTML Stacture
+
+Part 2
+A. How a Website Look Without CSS
+B. How a website look with CSS
+
+Part 3
+A. History of HTML
+B. History of CSS
+
+Part 4
+Make Computer Ready to Write Code
+
+A. Code Editor
+	1. Notepad
+	2. Notepad ++
+	3. Sublime Text
+	4. Coffee Cup HTML Editor
+	5. Atom Code Editor
+B. Brower
+	1. Google Chrome
+	2. Mozilla Firefox
+	3. Microsoft Edge
+
+Part5
+ Show File Extension
+
+Part 6
+Write your first Code
+
+1. 	< left angle Bracket
+	> right angle Bracke
+	() parentheses
+	{} curly braces
+	[] square braces
+
+HTML is not a case sensative language
+
+We should start with Doctype
+then html>head>title>body
+
+Part 7
+	1. Heading
+
+Class 2
+	A. Paragraph
+	B. Attribute
+	C. Bold Italic and Underline <br> or <strong>, <i> or <em>
+	D. Nesting (one tag in under another)
+	E. Delete in HTML <del> <s>
+	F. Mark in html
+	G. SuperScript and SubScript
+	H. Break Tag in HTML  is a single tag
+	I.  Abbrebiation in HTML
+
+Class 3
+	A. Anchor Tag <a>
+	B. Image Tag - Signle Tag, Image path and Size and Alt attribute
+	C. Width and Height in imge
+	D. Link in Image
+	E. Elements in HTML, Inspect Element
+Class 4	
+	A. CSS, Inline CSS, Internal CSS and External CSS(link, rel)
+	B. Power of CSS
+	C. Class and ID in CSS
+	D. Color Picker
+	E. Text Decoration in CSS
+	F. Use of Font with CSS
+		Font-family
+		font-weight
+		font-size
+		font-style
+		font-variant
+		text-transform
+		line Height
+	G. Write Bangla in Website
+Class 5
+	A. Class and ID in CSS
+	B. Class in Class (Multiple Class)
+	C. Use Multiple Style in a line 
+	   (Font: style, variant, weight,size,line-height & family)
+	D. A Short Review
+	E. Background Image with CSS
+	F. Comment in CSS
+	G. Table in HTML (tr, th, td, border, cellpadding)
+	H. Table Caption, colspan, thead,tfoot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class 6
+	A. Table in HTML (tr, th, td, border, cellpadding)
+	B. Table Caption, colspan, thead,tfoot
+	C. CSS in Table, Width, 
+	D. Margin, Border,BG Color, Color, Same CSS in Multiple Elements
+	E. Table Caption CSS
+
+Class 7
+	A. Div
+	B. Margin Padding
+	C. Wrapper,  CSS
+	D. Overflow
+	E. display property - none, inline, block
+
+Class 8
+	A. Floating in CSS
+	B. Pseudo Element - Hover
+	C. CSS Transition
+	D. CSS Transform
+
+
+Class 9
+	A. Form
+	B. Value, Placeholder
+	C.  Checkbox, Select, Date
+	D.color, age, password,
+	E. Fieldset>legend,
+	F. Text Area & CSS in  form
+
+
+Class 10
+	A. Button
+	B. Gradient Linear,  Radial
+	C. Online Gradient Tool
+
+Class 11
+	A. Animation > @keyframes, from>to
+	B. Audio, Video, iframe, Embed
+
+
+Class 12	
+	A. Making 3 Column
+	B. Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
