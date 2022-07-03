@@ -1,0 +1,226 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+    font-family: font-family: 'Ubuntu', sans-serif;
+}
+
+/*--------Navbar Section-----*/
+.nav-logo{
+    height: 4rem;
+}
+.form-control{
+    width:50%!important;
+}
+.navbar-toggler-icon{
+    color:#fff!important;
+}
+.navbar{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    padding:0!important;
+}
+.navbar li a{
+    color:#fff!important;
+    font-size:1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.navbar li{
+    padding:0 10px;
+}
+.navbar li a:active,.navbar li a:hover{
+    color:#6C178C!important;
+}
+.fa-bars{
+    color: #fff;
+    font-size:30px;
+    
+}
+.navbar-toggler{
+    outline: none!important;
+}
+/*------Banner section-------*/
+#banner-secton{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color:#fff;
+    padding-top:5%;
+}
+.banner-left h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top:100px;
+    
+}
+.banner-right{
+    padding-bottom:20px;
+}
+#banner-secton .btn-outline-secondary{
+    border-radius: 0!important;
+    border-width: medium;
+    color:#fff;
+    border-color: #fff;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding:.6rem 1rem;
+    
+}
+#banner-secton .btn-outline-secondary:hover{
+    background-color:#fff!important;
+    border-color:#fff!important;
+    color:#8F17A8!important;
+    
+}
+.wave-img{
+    width:100%;
+    
+}
+.banner_right{
+    padding-top:2%;
+}
+/* ---Services Section-----*/
+h2{
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin:0 auto;
+    padding:3% 0%;
+}
+.tittle::before{
+    content: '';
+    background-color: #7b1798;
+    margin:0 auto;
+    height: 5px;
+    width:200px;
+    display: block;
+    transform: translateY(60px);
+}
+
+.tittle::after{
+    content: '';
+    background-color: #7b1798;
+    margin-bottom: 40px;
+    margin-left:auto;
+    margin-right: auto;
+    height: 10px;
+    width:40px;
+    display: block;
+    transform: translateY(14px);
+}
+.services{
+    margin-top:20px;
+}
+.services img{
+    height:30%;
+    width:100%;
+    border-radius: 20px;
+    margin-bottom:20px;
+}
+h3{
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #7b1798;
+}
+.services p{
+    margin-bottom:20px;
+}
+
+.services .btn-outline-secondary{
+    border-radius: 0!important;
+    border-width: medium;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding:.6rem 1rem;
+    color: #7b1798;
+    border-color: #7b1798;
+}
+.services .btn-outline-secondary:hover{
+    background-color:#7b1798;
+    color: #fff;
+    border-color: #fff;
+}
+
+/*-----About Us Section----*/
+.aboutus-left{
+    margin-top:30px;
+}
+.aboutus-left ul li{
+    margin-left:10%;
+    margin-top:2%;
+    font-size: 1.3rem;
+}
+#aboutus{
+    background-color:#dedede;
+}
+
+/*----Testimonials Section---*/
+.clients {
+    margin:20px auto;
+    padding:10px;
+}
+.clients p{
+    border-left:5px solid #7b1798;
+}
+.clients img{
+    height: 35%;
+    width:40%;
+    border-radius: 50%;
+}
+.clients-hr{
+    border-top: 1px solid #7b1798;
+}
+
+/*--------Contact Section---------*/
+
+.social_icon ul>li{
+    display: inline;
+    text-decoration: none;
+}
+.social_icon img{
+    height: 90%;
+    width: 20%;
+    margin-top:3%;
+}
+
+footer{
+    background-color:#47484B;
+    padding:20px;
+    color:#fff;
+}
+.contact{
+    margin-bottom: 20px;
+}
+.form-block{
+    width: 100%!important;
+}
+.form-group label{
+    font-size:1rem;
+    text-transform: uppercase;
+}
+
+.company img{
+    width:80%;
+    height: 20%;
+}
+.news{
+    width:100%!important;
+}
+.news_mail{
+    width:100%!important;
+    text-align:center!important;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
